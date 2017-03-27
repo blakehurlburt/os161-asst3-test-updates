@@ -1,7 +1,7 @@
 ---
 name: "Quint Huge (Swap)"
 description: >
-  Run five concurent copies of huge.
+  Run five concurrent copies of huge.
 tags: [swap]
 depends: [swap-basic, /vm/quinthuge.t, shell]
 sys161:

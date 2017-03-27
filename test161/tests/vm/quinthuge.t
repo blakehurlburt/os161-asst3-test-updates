@@ -1,7 +1,7 @@
 ---
 name: "Quint Huge"
 description: >
-  Run five concurent copies of huge.
+  Run five concurrent copies of huge.
 tags: [vm]
 depends: [not-dumbvm-vm]
 sys161:

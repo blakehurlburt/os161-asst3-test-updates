@@ -1,8 +1,8 @@
 ---
 name: "Taco cat"
 description: >
-  Test page faults by ensuring a known palindrone stored in static
-  memory is actually a palindrone.
+  Test page faults by ensuring a known palindrome stored in static
+  memory is actually a palindrome.
 tags: [vm]
 depends: [not-dumbvm-vm]
 ---

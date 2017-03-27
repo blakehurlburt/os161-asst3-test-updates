@@ -1,7 +1,7 @@
 ---
 name: "Quint Matrix Mult (Swap)"
 description: >
-  Run five concurent copies of matmult.
+  Run five concurrent copies of matmult.
 tags: [swap]
 depends: [swap-basic, /vm/quintmat.t, shell]
 sys161:

@@ -1,7 +1,7 @@
 ---
 name: "Quint Sort (Swap)"
 description: >
-  Run five concurent copies of sort.
+  Run five concurrent copies of sort.
 tags: [swap]
 depends: [swap-basic, /vm/quintsort.t, shell]
 sys161:

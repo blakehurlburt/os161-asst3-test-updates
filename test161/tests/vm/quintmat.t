@@ -1,7 +1,7 @@
 ---
 name: "Quint Matrix Mult"
 description: >
-  Run five concurent copies of matmult.
+  Run five concurrent copies of matmult.
 tags: [vm]
 depends: [not-dumbvm-vm]
 sys161:
